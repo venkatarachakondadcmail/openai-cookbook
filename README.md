@@ -123,6 +123,7 @@ People are writing great tools and papers for improving outputs from GPT. Here a
 
 If there are examples or guides you'd like to see, feel free to suggest them on the [issues page]. We are also happy to accept high quality pull requests, as long as they fit the scope of the repo.
 
+
 [chatgpt]: https://chat.openai.com/
 [openai api]: https://openai.com/api/
 [api signup]: https://beta.openai.com/signup
